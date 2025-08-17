@@ -179,6 +179,7 @@ button {
     background-color: #3882f6;;
     display: flex;
     justify-content: space-between;
+    border-radius: 20px;
     align-items: center;
     width: 800px;
     height: 150px;
